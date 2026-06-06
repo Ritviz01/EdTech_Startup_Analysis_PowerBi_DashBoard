@@ -16,7 +16,7 @@ The core objective of this deployment is to engineer an enterprise-ready dashboa
 * **Unified Duration Standards:** Normalizing varying course duration logs (minutes, hours, months, flexible schedules) to map structural curves between course length and audience retention.
 
 ---
-
+VISIT -- https://app.powerbi.com/reportEmbed?reportId=e5d7a1fd-783a-49b8-bd77-a55d8c2b07e3&autoAuth=true&ctid=d3de91d7-5bb6-4ce1-a775-489e8e7143a8
 ## 🛠️ Data Pipeline & Transformation Specs (ETL)
 
 The raw dataset spans **45 structural columns** comprising highly heterogeneous metadata. The following programmatic steps were completed inside the **Power Query Editor** to convert the unpolished schema into a clean data store:
